@@ -1,0 +1,6 @@
+
+101 1300000001 Deposit    250 2250$250 Deposited Successfully
+101 1300000001 Deposit    250 2250$250 Deposited Successfully
+101 1300000001 Clear      0 0 Account Cleared Out
+101 1300000001 Deposit    500 2500$500 Deposited Successfully
+101 1300000001 Withdraw 500 2000$500 Withdrawn Successfully
